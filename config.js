@@ -3,6 +3,6 @@ window.APP_CONFIG = {
   API_URL: 'https://script.google.com/macros/s/AKfycbxKIi_cAXCpftnHJii6lJqIqCTeQ1H1NJ1mFZIZdDAyjGV3spTnNNcWWeEMpN8VuKqm5g/exec',            // alamat Web App Apps Script (berakhiran /exec)
   ONESIGNAL_APP_ID: 'f4f44e28-4e0c-4db2-b7d2-d71e81006815',   // App ID dari dashboard OneSignal (untuk notifikasi saat aplikasi ditutup)
   SALES: 'Luthfi Kurnia',        // nama cadangan di pesan WhatsApp (bila belum login). Setelah login, nama pengguna dipakai.
-  PENYUSUN: ['Luthfi Kurnia, SKM', 'Cahyanindyah Puspitasari, SKM'],  // nama di laporan PDF bila "Semua petugas"
+  PENYUSUN: ['Luthfi Kurnia, SKM', 'Cahyaningdyah Puspitasari, SKM'],  // nama di laporan PDF bila "Semua petugas"
   SAPA_JENIS: ['Perusahaan', 'Asuransi']  // jenis instansi yang wajib disapa tiap hari (tambah 'Agensi' bila perlu)
 };
